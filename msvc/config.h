@@ -1,4 +1,4 @@
-/* config.h.  Manual config for MSVC.  */
+/* config.h.  Manual config for MSVC. */
 
 #ifndef _MSC_VER
 #warn "msvc/config.h shouldn't be included for your development environment."
